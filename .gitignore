@@ -207,3 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 .DS_Store
+# Xcode workspace/user data — don’t version these
+**/*.xcworkspace/xcuserdata/
+**/*.xcworkspace/xcshareddata/
+**/*.xcuserstate
+
